@@ -1,0 +1,19 @@
+C:\Users\diego\source\repos\LabApBio_Porlles_Andia\bin\Debug\LabApBio_Porlles_Andia.exe.config
+C:\Users\diego\source\repos\LabApBio_Porlles_Andia\bin\Debug\LabApBio_Porlles_Andia.exe
+C:\Users\diego\source\repos\LabApBio_Porlles_Andia\bin\Debug\LabApBio_Porlles_Andia.pdb
+C:\Users\diego\source\repos\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.Form1.resources
+C:\Users\diego\source\repos\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.Properties.Resources.resources
+C:\Users\diego\source\repos\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.exe
+C:\Users\diego\source\repos\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.pdb
+D:\UPT - Universidad\COVID-19\Seguridad Informatica\LabApBio_Porlles_Andia\bin\Debug\LabApBio_Porlles_Andia.exe.config
+D:\UPT - Universidad\COVID-19\Seguridad Informatica\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.exe
+D:\UPT - Universidad\COVID-19\Seguridad Informatica\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.pdb
+D:\UPT - Universidad\COVID-19\Seguridad Informatica\LabApBio_Porlles_Andia\bin\Debug\LabApBio_Porlles_Andia.exe
+D:\UPT - Universidad\COVID-19\Seguridad Informatica\LabApBio_Porlles_Andia\bin\Debug\LabApBio_Porlles_Andia.pdb
+D:\UPT - Universidad\COVID-19\Seguridad Informatica\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.csprojResolveAssemblyReference.cache
+D:\UPT - Universidad\COVID-19\Seguridad Informatica\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.Form1.resources
+D:\UPT - Universidad\COVID-19\Seguridad Informatica\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.Properties.Resources.resources
+D:\UPT - Universidad\COVID-19\Seguridad Informatica\LabApBio_Porlles_Andia\obj\Debug\LabApBio_Porlles_Andia.csproj.GenerateResource.Cache
